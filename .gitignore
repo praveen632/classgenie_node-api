@@ -1,0 +1,7 @@
+/common/config.js
+/logs
+/node_modules
+/nohup.out
+/assets
+request
+/nbproject/private/
