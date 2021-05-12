@@ -33,7 +33,7 @@
     "mysql": "^2.11.1",
     "node-gcm": "^0.14.4",
     "node-serialize": "0.0.4",
-    "nodemailer": "^4.4.2",
+    "nodemailer": "^6.4.16",
     "nodemailer-smtp-transport": "^2.7.4",
     "path": "^0.12.7",
     "randomstring": "^1.1.5",
