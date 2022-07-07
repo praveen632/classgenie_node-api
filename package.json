@@ -24,7 +24,7 @@
     "js-base64": "^2.1.9",
     "js-md5": "^0.7.3",
     "method-override": "^2.3.6",
-    "moment": "~2.20.1",
+    "moment": "~2.29.4",
     "moment-timezone": "~0.5.4",
     "mongodb": "^2.2.33",
     "monk": "^6.0.5",
